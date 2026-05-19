@@ -1,24 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-:root {
-    --primary-color: #2563eb;
-    --secondary-color: #1e40af;
-    --accent-color: #f59e0b;
-    --text-dark: #1f2937;
-    --text-light: #6b7280;
-    --background: #f9fafb;
-    --surface: #ffffff;
-    --border
-
-
-    /* ============================================
-   COMPLETE CSS STYLESHEET
-   ============================================ */
-
 /* Basic Styles */
 * {
     margin: 0;
